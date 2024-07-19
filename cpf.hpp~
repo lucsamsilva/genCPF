@@ -10,6 +10,6 @@ class Cpf{
 	public: 
 		Cpf(); 
 		std::string m_numbs;
-	  void generate_digit_one(); 
+	       	void generate_digit_one(); 
 		void generate_digit_two(); 
 };
